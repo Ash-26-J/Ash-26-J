@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **josephashish2025@gmail.com**
 
-- ⚡ Fun fact **I love adventure and Discovering new stuffs**
+- ⚡ Fun fact **I love adventure and Discovering new stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
