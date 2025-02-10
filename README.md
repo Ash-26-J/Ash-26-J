@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">A passionate full stack developer and cyber enthusiasts</h3>
+<h3 align="center">A passionate  developer and cyber enthusiasts</h3>
 
 - 🔭 I’m currently working on **mastering full stack web dev**
 
