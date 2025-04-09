@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **mastering full stack web dev**
 
-- 🌱 I’m currently learning **NextJs,Ai/ML**
+- 🌱 I’m currently learning **Ai/ML**
 
 - 👯 I’m looking to collaborate on **various projects with innovative ideas and that challenges my limits**
 
