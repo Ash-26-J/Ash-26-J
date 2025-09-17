@@ -61,13 +61,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ash-26-J&theme=dark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
-
----
-
-### 💖 Support Me
-<p align="left">
-  <a href="https://www.buymeacoffee.com/Ash-26-J" target="_blank">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
-<br><br>
