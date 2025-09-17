@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Ash-26-J/Ash-26-J/assets/116773229/65961d62-1779-4467-9d7a-d02f5a65c26b" alt="Hi there, I'm Ashish! Welcome to my profile." width="800"/>
-  <h1>Hello Folks 👋, I'm Ashish!</h1>
+  <img src="YOUR_NEW_IMAGE_BANNER_URL_HERE" alt="Hello Folks, I'm Ashish!" width="800"/>
   <h3>A passionate developer and cybersecurity enthusiast</h3>
 </div>
 
