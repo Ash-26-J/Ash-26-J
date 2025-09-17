@@ -1,67 +1,73 @@
 <div align="center">
   <img src="https://github.com/Ash-26-J/Ash-26-J/assets/116773229/65961d62-1779-4467-9d7a-d02f5a65c26b" alt="Hi there, I'm Ashish! Welcome to my profile." width="800"/>
+  <h1>Hello Folks 👋, I'm Ashish!</h1>
+  <h3>A passionate developer and cybersecurity enthusiast</h3>
 </div>
 
-# Hello Folks 👋, I'm Ashish!
-### A passionate developer and cybersecurity enthusiast
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:josephashish2025@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ---
 
-## About Me
+### 🚀 About Me
 - 🔭 I'm currently working on **implementing AI/ML in the cybersecurity domain**.
-- 🌱 I'm currently learning **AI/ML** and expanding my knowledge.
-- 👯 I'm looking to collaborate on **innovative projects that challenge my limits**.
-- 📫 How to reach me: **josephashish2025@gmail.com**
-- ⚡ **Fun Fact:** I love adventure and discovering new things!
+- 🌱 I'm currently diving into full-stack development.
+- 👯 I'm always looking to collaborate on **innovative projects that challenge my limits**.
+- ⚡ **Fun Fact:** I have a huge collection of unread books, but still can't stop buying more!
 
 ---
 
-## Languages and Tools
-
-### 💻 Programming Languages
-| | |
-| :--- | :--- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> **C** | A powerful and efficient general-purpose programming language. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> **C++** | An object-oriented, general-purpose programming language often used for performance-critical applications. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> **Python** | My go-to for data science, scripting, and building web applications. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> **JavaScript** | The core technology for creating dynamic and interactive web pages. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> **Java** | A versatile language widely used for building robust, scalable applications. |
-
-### 🌐 Web & API Development
-| | |
-| :--- | :--- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> **HTML5 & CSS3** | The foundational languages for structuring and styling web pages. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> **React** | A powerful JavaScript library for building user interfaces. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/> **FastAPI** | A modern, high-performance web framework for building APIs with Python. |
-
-### 🗄️ Databases
-| | |
-| :--- | :--- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> **MySQL** | A reliable, open-source relational database management system. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> **PostgreSQL** | A powerful object-relational database known for its stability and advanced features. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> **MongoDB** | A flexible NoSQL database that is perfect for unstructured data. |
-
-### 🤖 AI/ML & Data Science
-| | |
-| :--- | :--- |
-| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> **TensorFlow** | An end-to-end open-source platform for building and deploying machine learning models. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original-wordmark.svg" alt="Scikit-learn" width="40" height="40"/> **Scikit-learn** | A simple and efficient library for data mining and analysis in Python. |
-
-### 🛠️ Other Tools & Platforms
-| | |
-| :--- | :--- |
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> **Git** | My go-to distributed version control system for tracking changes in code. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> **Linux** | The open-source operating system I use for development and automation. |
-| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> **Figma** | A collaborative, web-based tool for UI/UX design and prototyping. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> **Arduino** | An open-source hardware and software platform for building electronic projects. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/> **Raspberry Pi** | A series of small single-board computers perfect for IoT and robotics. |
+### 🛠️ Languages and Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</div>
 
 ---
 
-## Support Me
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ash-26-J&show_icons=true&theme=dark" alt="Ash-26-J's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-26-J&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+### ✨ GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ash-26-J&theme=dark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 💖 Support Me
 <p align="left">
-  <a href="https://www.buymeacoffee.com/Ash-26-J"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ash-26-J" />
+  <a href="https://www.buymeacoffee.com/Ash-26-J" target="_blank">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
 <br><br>
