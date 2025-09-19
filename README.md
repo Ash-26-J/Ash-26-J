@@ -1,12 +1,14 @@
+<div style="background-image: url('https://github.com/Ash-26-J/prof/blob/main/Gemini_Generated_Image_jo331pjo331pjo33.png?raw=true'); background-size: cover; background-position: center; padding: 20px; border-radius: 10px;">
+
 <div align="center">
-  <img src=https://github.com/Ash-26-J/prof/blob/main/gitcat2.png?raw=true" alt="Hi there, I'm Ashish! Welcome to my profile." width="800"/>
+  <img src="https://github.com/Ash-26-J/prof/blob/main/gitcat2.png?raw=true" alt="Hi there, I'm Ashish! Welcome to my profile." width="800"/>
   
-  <h3>A passionate developer and cybersecurity enthusiast</h3>
+  <h3 style="color: white;">A passionate developer and cybersecurity enthusiast</h3>
 </div>
 
----
+<hr style="border-color: #333;">
 
-### 🌐 Connect with Me
+### <span style="color: white;">🌐 Connect with Me</span>
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -16,21 +18,23 @@
   </a>
 </p>
 
----
+<hr style="border-color: #333;">
 
-### 🚀 About Me
-- 🔭 I'm currently working on **implementing AI/ML in the cybersecurity domain**.
-- 🌱 I'm currently diving into full-stack development.
-- 👯 I'm always looking to collaborate on **innovative projects that challenge my limits**.
-- ⚡ **Fun Fact:** I have a huge collection of unread books, but still can't stop buying more!
+### <span style="color: white;">🚀 About Me</span>
+<ul style="color: white;">
+  <li>🔭 I'm currently working on **implementing AI/ML in the cybersecurity domain**.</li>
+  <li>🌱 I'm currently diving into full-stack development.</li>
+  <li>👯 I'm always looking to collaborate on **innovative projects that challenge my limits**.</li>
+  <li>⚡ **Fun Fact:** I have a huge collection of unread books, but still can't stop buying more!</li>
+</ul>
 
----
+<hr style="border-color: #333;">
 
-### 🛠️ Languages and Tools
+### <span style="color: white;">🛠️ Languages and Tools</span>
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -47,17 +51,19 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
 
----
+<hr style="border-color: #333;">
 
-### 📊 My GitHub Stats
+### <span style="color: white;">📊 My GitHub Stats</span>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ash-26-J&show_icons=true&theme=dark" alt="Ash-26-J's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-26-J&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
----
+<hr style="border-color: #333;">
 
-### ✨ GitHub Trophies
+### <span style="color: white;">✨ GitHub Trophies</span>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ash-26-J&theme=dark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
+
+</div>
