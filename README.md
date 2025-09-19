@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=https://github.com/Ash-26-J/prof/blob/main/gitcat.png?raw=true" alt="Hi there, I'm Ashish! Welcome to my profile." width="800"/>
+  <img src=https://github.com/Ash-26-J/prof/blob/main/gitcat2.png?raw=true" alt="Hi there, I'm Ashish! Welcome to my profile." width="800"/>
   
   <h3>A passionate developer and cybersecurity enthusiast</h3>
 </div>
