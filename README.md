@@ -10,6 +10,8 @@
 
 ### 🌐 Connect with Me
 <p align="center">
+  <img src="https://img.shields.io/github/repos/Ash-26-J?style=for-the-badge&label=PUBLIC%20REPOSITORIES&color=blueviolet" alt="Total Public Repositories" />
+  <br><br>
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
