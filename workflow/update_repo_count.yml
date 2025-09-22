@@ -1,0 +1,32 @@
+name: Update Total Repository Count
+on:
+  # Runs once a day at midnight UTC
+  schedule:
+    - cron: '0 0 * * *'
+  # Allows manual triggering from the Actions tab
+  workflow_dispatch:
+  # Runs when changes are pushed to main branch
+  push:
+    branches:
+      - main 
+
+jobs:
+  update-count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get Total Repository Count (Public + Private)
+        uses: JasonEtco/repo-count-action@v1
+        id: repo-count
+        with:
+          github-token: ${{ secrets.REPO_COUNT_TOKEN }}
+          username: Ash-26-J
+      - name: Update README with Count
+        # This command finds the placeholder and replaces it with the actual number
+        run: |
+          sed -i "s|\[TOTAL_REPOS_PLACEHOLDER\]|${{ steps.repo-count.outputs.count }}|g" README.md
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: Auto update total repository count"
+          file_pattern: README.md
