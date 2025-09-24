@@ -21,7 +21,7 @@ jobs:
         uses: JasonEtco/repo-count-action@v1
         id: repo-count
         with:
-          github-token: ${{ secrets.REPO_COUNT_TOKEN }}
+          github-token: ${{ secrets.REPO_COUNT_TOKENS }}
           username: Ash-26-J
       - name: Update README with Count
         # This command finds the placeholder and replaces it with the actual number
