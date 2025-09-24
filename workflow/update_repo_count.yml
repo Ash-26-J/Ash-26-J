@@ -14,7 +14,7 @@ jobs:
   update-count:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Grant write access for committing and pushing
+      contents: write # Grants write access for committing and pushing
     steps:
       - uses: actions/checkout@v4
       - name: Get Total Repository Count (Public + Private)
