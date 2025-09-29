@@ -1,8 +1,4 @@
 <style>
-/* This style block contains the CSS to control layout and prevent text selection.
-GitHub markdown often supports <style> tags, but sometimes requires inline styles.
-We'll use a mix for best results.
-*/
 .unselectable-header {
     /* Standard property to prevent text selection */
     user-select: none; 
