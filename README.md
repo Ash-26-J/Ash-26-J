@@ -6,13 +6,7 @@
     </div>
 
 <div style="display: flex; gap: 20px; margin-top: 20px; flex-direction: row-reverse;">
-
-<div style="flex-shrink: 0; width: 30%; display: flex; align-items: flex-start; justify-content: flex-end;">
-            <img src="https://github.com/Ash-26-J/prof/blob/main/Gemini_Generated_Image_45obk345obk345ob.png" 
-                 alt="Animated illustration of a developer" 
-                 style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 10px; display: block;">
-        </div>
-        <div style="flex-grow: 1;">
+<div style="flex-grow: 1;">
 
 <h2 style="user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; cursor: default;">🌐 Connect with Me</h2>
             <p align="center">
