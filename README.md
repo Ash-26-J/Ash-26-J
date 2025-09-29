@@ -11,7 +11,7 @@
 <div style="flex-shrink: 0; width: 25%; display: flex; align-items: flex-start; justify-content: flex-end;">
     <img src="https://github.com/Ash-26-J/prof/blob/main/Gemini_Generated_Image_45obk345obk345ob.png?raw=true" 
          alt="Animated GIF of person coding" 
-         style="max-width: 50px; height: auto; border-radius: 8px; margin-top: 10px; margin-right: auto; display: block;">
+         style="max-width: 20px; height: auto; border-radius: 8px; margin-top: 10px; margin-right: auto; display: block;">
 </div>
 
 <div style="flex-grow: 1;">
