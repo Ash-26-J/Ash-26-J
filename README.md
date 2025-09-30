@@ -20,10 +20,10 @@
             
  <h2 style="user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; cursor: default;">🚀 About Me</h2>
             <ul style="list-style-type: none; padding-left: 0;">
-                <li>🔭 I'm currently working on **implementing AI/ML in the cybersecurity domain**.</li>
+                <li>🔭 I'm currently working on implementing AI/ML in the cybersecurity domain.</li>
                 <li>🌱 I'm currently diving into full-stack development.</li>
-                <li>👯 I'm always looking to collaborate on **innovative projects that challenge my limits**.</li>
-                <li>⚡ **Fun Fact:** I have a huge collection of unread books, but still can't stop buying more!</li>
+                <li>👯 I'm always looking to collaborate on innovative projects that challenge my limits.</li>
+                <li>⚡ Fun Fact:I have a huge collection of unread books, but still can't stop buying more!</li>
             </ul>
 
 <h2 style="user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; cursor: default;">🛠️ Languages and Tools</h2>
