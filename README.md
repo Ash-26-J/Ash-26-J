@@ -66,11 +66,17 @@
 <p align="center">
                 <img src="https://github-profile-trophy.vercel.app/?username=Ash-26-J&theme=dark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
             </p>
-            <p>
-  "Any fool can write code that a computer can understand. 
-  <strong>Good programmers write code that humans can understand.</strong>"
+<h3>
+  <img alt="Fire Emoji" height="20" src="https://em-content.zobj.net/source/microsoft-teams/337/fire_1f525.png" width="20">
+  Random Dev Quote
+</h3>
+<p style="font-size: 1.2em; font-style: italic; color: #9c9c9c;">
+  “Any fool can write code that a computer can understand. 
+  <span style="font-weight: bold; font-style: normal; color: #ffffff;">Good programmers write code that humans can understand.</span>”
   <br>
-  — Martin Fowler
+  <span style="display: block; text-align: right; margin-top: 10px; color: #ffffff;">
+    — Martin Fowler
+  </span>
 </p>
         </div>
     </div>
