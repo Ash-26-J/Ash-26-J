@@ -66,6 +66,12 @@
 <p align="center">
                 <img src="https://github-profile-trophy.vercel.app/?username=Ash-26-J&theme=dark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
             </p>
+            <p>
+  "Any fool can write code that a computer can understand. 
+  <strong>Good programmers write code that humans can understand.</strong>"
+  <br>
+  — Martin Fowler
+</p>
         </div>
     </div>
 </div>
