@@ -66,6 +66,7 @@
 <p align="center">
                 <img src="https://github-profile-trophy.vercel.app/?username=Ash-26-J&theme=dark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
             </p>
+<div>            
 <h3>
   <img alt="Fire Emoji" height="20" src="https://em-content.zobj.net/source/microsoft-teams/337/fire_1f525.png" width="20">
   Random Dev Quote
@@ -78,6 +79,7 @@
     — Martin Fowler
   </span>
 </p>
+</div>
         </div>
     </div>
 </div>
